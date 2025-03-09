@@ -1,3 +1,3 @@
-/home/humanbin/project/build/CMakeFiles/app.dir
+/home/humanbin/project/build/CMakeFiles/calc.dir
 /home/humanbin/project/build/CMakeFiles/edit_cache.dir
 /home/humanbin/project/build/CMakeFiles/rebuild_cache.dir
