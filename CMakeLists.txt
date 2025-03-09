@@ -8,5 +8,6 @@ file(GLOB SRC ${CMAKE_CURRENT_SOURCE_DIR}/src/*.cpp)
 # set(CMAKE_CXX_STANDARD 11)
 # add_executable(app ${SRC})
 set(LIBRARY_OUTPUT_PATH /home/humanbin/project/lib)
-add_library(calc SHARED ${SRC})
+#add_library(calc SHARED ${SRC})
+add_library(calc STATIC ${SRC})
 

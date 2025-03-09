@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
+  "/home/humanbin/project/lib/libcalc.a"
   "/home/humanbin/project/lib/libcalc.pdb"
-  "/home/humanbin/project/lib/libcalc.so"
   "CMakeFiles/calc.dir/src/add.cpp.o"
   "CMakeFiles/calc.dir/src/add.cpp.o.d"
   "CMakeFiles/calc.dir/src/sub.cpp.o"

@@ -1,1 +1,2 @@
-/usr/bin/c++ -fPIC -shared -Wl,-soname,libcalc.so -o /home/humanbin/project/lib/libcalc.so CMakeFiles/calc.dir/src/add.cpp.o CMakeFiles/calc.dir/src/sub.cpp.o
+/usr/bin/ar qc /home/humanbin/project/lib/libcalc.a CMakeFiles/calc.dir/src/add.cpp.o CMakeFiles/calc.dir/src/sub.cpp.o
+/usr/bin/ranlib /home/humanbin/project/lib/libcalc.a
