@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app.dir/main.cpp.o -o /home/humanbin/project/exe/app   -L/home/humanbin/project/lib  -Wl,-rpath,/home/humanbin/project/lib -lcalc
