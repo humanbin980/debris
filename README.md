@@ -1,1 +1,1 @@
-# debris
+# .a .so 
